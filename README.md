@@ -1,6 +1,6 @@
 # todo-app
-React todo application <br />____
-**How to set up**
+React todo application 
+<br />**How to set up**
  <-------------node------------->
 
 node version 18.16.1
