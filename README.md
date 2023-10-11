@@ -1,5 +1,5 @@
 # todo-app
-React todo application &nbsp
+React todo application <br />____
 **How to set up**
  <-------------node------------->
 
