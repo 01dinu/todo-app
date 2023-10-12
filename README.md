@@ -2,6 +2,9 @@
 
 This is a simple Todo application built with React, showcasing a clean and intuitive user interface for managing tasks. The app includes features such as task prioritization, progress tracking, and the ability to mark tasks as done.
 
+![WhatsApp Image 2023-10-12 at 10 59 50_a051f904](https://github.com/01dinu/todo-app/assets/90330425/801037b8-7fcf-48be-8f49-361950274705)
+
+
 ## Features
 
 - **Task List**: View and manage your tasks with an organized table displaying key information.
